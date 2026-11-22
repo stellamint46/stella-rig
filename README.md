@@ -1,4 +1,4 @@
-> **About this copy**: This is a deployment copy of [Anime2.5DRig](https://github.com/852wa/Anime2.5DRig) (MIT License, (c) the original author), with a small added feature: lip-sync driven by an audio file (volume-linked mouth movement). Sample PSDs and the camera face-tracking assets are omitted; everything else is unchanged. See LICENSE.
+> **About this copy**: This is a deployment copy of [Anime2.5DRig](https://github.com/852wa/Anime2.5DRig) (MIT License, (c) the original author), with added features: lip-sync driven by an audio file (volume-linked mouth movement), an offline frame-by-frame export, and a motion set (idle loop with breathing/sway/gaze saccades/bounce, one-touch head tilt, per-strand hair variation with root locks and tip propagation, leg grounding, skirt and arm cloth lag, and head-motion overshoot), each adjustable with sliders. Sample PSDs and the camera face-tracking assets are omitted; everything else is unchanged. See LICENSE.
 
 # Anime2.5DRig
 
